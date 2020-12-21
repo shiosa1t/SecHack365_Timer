@@ -16,4 +16,4 @@ async def name_change():
 
 name_change.before_loop(bot.wait_until_ready)    
 name_change.start()
-bot.run('NzkwNTY0MzA4NDg0NDg5MjE3.X-CcYw.-jRqniryKL0_2zK5qZsK72M94a4')
+bot.run('')
